@@ -1,0 +1,13 @@
+package dev.nugraha.obs.java.test;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ObsJavaTestApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ObsJavaTestApplication.class, args);
+	}
+
+}
