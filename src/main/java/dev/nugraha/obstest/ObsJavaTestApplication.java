@@ -1,4 +1,4 @@
-package dev.nugraha.obs.java.test;
+package dev.nugraha.obstest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
